@@ -27,4 +27,4 @@ This is a simple **Android** application built with **Java** and **XML** that al
 1. **Clone the repository**:
 
    ```bash
-   git clone [https://github.com/yourusername/IMC-Calculator-Android.git](https://github.com/MOHAJII/IMC-Calculator-Android.git)
+   git clone https://github.com/MOHAJII/IMC-Calculator-Android.git
