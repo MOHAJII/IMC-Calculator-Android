@@ -1,5 +1,8 @@
 # IMC Calculator – Body Mass Index (BMI) Mobile App
 
+![Application Screenshot](pictures/img.png)  
+
+
 ## Description
 
 This is a simple **Android** application built with **Java** and **XML** that allows users to calculate their **Body Mass Index (BMI)** based on their **weight** and **height**. The app provides an immediate **BMI evaluation** along with a health status feedback. **No database** is used, making the app lightweight and easy to use. This project is ideal for learning basic **Android development** with **Java** and **XML**.
@@ -24,4 +27,4 @@ This is a simple **Android** application built with **Java** and **XML** that al
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/IMC-Calculator-Android.git
+   git clone [https://github.com/yourusername/IMC-Calculator-Android.git](https://github.com/MOHAJII/IMC-Calculator-Android.git)
