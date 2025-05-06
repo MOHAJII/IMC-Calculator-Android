@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC_app</string>
+    <string name="app_title">IMC_App\n</string>
+    <string name="poids">Poids</string>
+    <string name="unit_kg">Kg</string>
+    <string name="taille">Taille</string>
+    <string name="unit_cm">Cm</string>
+    <string name="calculate_imc">Calculer IMC</string>
+    <string name="imc_result">IMC Result</string>
+    <string name="resultat_status">Status\n</string>
+</resources>
